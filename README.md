@@ -9,7 +9,7 @@ A simultaneous, zero-sum game, it has only two possible outcomes: a draw, or a w
 * [These are feedbacks to my web application](https://drive.google.com/drive/folders/1SxXmsYT068bhwxrmlq8suSf_mAruZ6Pq?usp=sharing)
 
 
-# [AIU's Library
+
 ## Link to the Web-Application: https://qbeksultan.github.io/
 
 ## Author: 
